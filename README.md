@@ -1,4 +1,4 @@
-<img width="761" height="193" alt="image" src="https://github.com/user-attachments/assets/9e0043b0-d7e5-4a23-9b44-47edb83f1318" /># Inventory_Management_System_Using_JAVA-Collection_Framework
+Inventory_Management_System_Using_JAVA-Collection_Framework
 A Java-based Inventory Management System implemented using Collection Framework for storing and managing product details
 
 # Inventory Management System (Java)
