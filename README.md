@@ -1,4 +1,4 @@
-Inventory_Management_System_Using_JAVA-Collection_Framework
+<img width="425" height="140" alt="image" src="https://github.com/user-attachments/assets/49686b26-4199-4ff5-952d-72d5cc810b23" />Inventory_Management_System_Using_JAVA-Collection_Framework
 A Java-based Inventory Management System implemented using Collection Framework for storing and managing product details
 
 # Inventory Management System (Java)
@@ -32,6 +32,22 @@ This version uses **Collection Framework** to store and process data efficiently
 - Sales processing handled in a separate thread
 - User-friendly CLI menu system
 
-- ## Tech Stack
+## Tech Stack
 - Java (Core, MVC, OOP, Multithreading)
 - Collection Framework (`ArrayList`, `HashMap`, etc.)
+
+## Installation/Setup instructions
+  ### Install Eclipse IDE
+  - Start the Eclipse IDE Installer
+  - Configure the installation location
+  - Launch the Eclipse IDE
+  - Configure workspace
+
+
+## Future Improvements
+- Add JDBC + MySQL integration (next version)
+- Implement GUI using JavaFX or Swing
+
+**Author**
+
+Kamali Singaravelan
