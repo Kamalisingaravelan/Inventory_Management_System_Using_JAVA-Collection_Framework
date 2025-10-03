@@ -1,4 +1,4 @@
-Inventory_Management_System_Using_JAVA-Collection_Framework
+<img width="3291" height="332" alt="image" src="https://github.com/user-attachments/assets/5af85feb-ea8f-4f19-a5c3-6705ba2b60a1" />Inventory_Management_System_Using_JAVA-Collection_Framework
   A Java-based Inventory Management System implemented using Collection Framework for storing and managing product details
 
 # Inventory Management System (Java)
@@ -47,6 +47,11 @@ This version uses **Collection Framework** to store and process data efficiently
 ## Future Improvements
 - Add JDBC + MySQL integration (next version)
 - Implement GUI using JavaFX or Swing
+
+# Conclusion 
+- The Inventory Management System provides a modular and efficient way to manage products, suppliers, and sales.
+- Threading enhances performance by processing sales in the background.
+- Can be further extended with database integration and GUI.
 
 **Author**
 
