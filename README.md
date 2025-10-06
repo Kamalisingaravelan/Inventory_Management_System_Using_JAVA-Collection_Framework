@@ -1,9 +1,6 @@
-**Inventory_Management_System_Using_JAVA-Collection_Framework**
-  A Java-based Inventory Management System implemented using Collection Framework for storing and managing product details
+# Inventory_Management_System_Using_JAVA-Collection_Framework
 
-# Inventory Management System (Java)
-
-A **Java-based CLI application** that manages inventory details such as products, quantities, and prices.  
+A **Java-based CLI application** is implemented using Collection Framework that manages inventory details such as products, quantities, and prices.  
 This version uses **Collection Framework** to store and process data efficiently.
 
 ## Project Structure
